@@ -1,0 +1,5 @@
+__title__ = 'pygame_plotter'
+__version__ = '0.0.0'
+__author__ = 'Edward Antonian'
+__email__ = 'edward.antonian1@gmail.com'
+__license__ = 'MIT'
